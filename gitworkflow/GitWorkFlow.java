@@ -1,4 +1,4 @@
-package gitWorkFlow;
+package gitworkflow;
 
 public class GitWorkFlow {
     public static void main(String[] args) {
