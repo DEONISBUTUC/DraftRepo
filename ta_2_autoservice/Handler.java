@@ -3,8 +3,6 @@ package ta_2_autoservice;
 public class Handler {
     public static void main(String[] args) {
         Car car1 = new Car("Audi","CRT 125",25545);
-        Car car2 = new Car("Bmw","CAT 745",49646);
-        Car car3 = new Car("Renault","CQW 952",97946);
 
         Garage autoDoctor = new Garage();
         autoDoctor.name = "Autodoctor";
